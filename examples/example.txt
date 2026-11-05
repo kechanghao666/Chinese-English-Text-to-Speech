@@ -1,0 +1,2 @@
+﻿欢迎使用中英文文本阅读器。
+Hello world. This is a text to speech example.
